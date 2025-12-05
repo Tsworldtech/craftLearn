@@ -1,4 +1,4 @@
-# CraftLearn — Learn a Craft On‑Chain
+# CraftLearn : Learn a Craft On‑Chain
 
 CraftLearn empowers artisans around the world by combining practical, hands‑on learning with accessible Web3 integration. Learn a craft, earn verifiable digital credentials, and unlock new income streams . because Web3 is for artisans, too.
 
@@ -39,7 +39,7 @@ CraftLearn is built as a modern, high‑performance dApp:
 
 ---
 
-## How It Works — The Artisan Journey
+## How It Works : The Artisan Journey
 
 1. **Web3 Basics**  
    Complete a short, mandatory crash course on Web3 fundamentals and earn an initial Web3 certificate.
