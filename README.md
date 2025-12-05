@@ -1,28 +1,54 @@
-CraftLearn: Learn a Craft On-Chain
-CraftLearn is an innovative platform dedicated to empowering artisans globally. We blend hands-on, practical skill development with seamless Web3 integration, allowing creators to master their craft, earn digital recognition, and unlock new income streams. Web3 is for artisans, too!
+# CraftLearn — Learn a Craft On‑Chain
 
-✨ Status & Links
-Current Status: In Development (Actively building core Web3 integration) Live Link: 🌐 https://craftlearn.vercel.app/
+CraftLearn empowers artisans around the world by combining practical, hands‑on learning with accessible Web3 integration. Learn a craft, earn verifiable digital credentials, and unlock new income streams — because Web3 is for artisans, too.
 
-💡 Core Features & Value
-Digital Certification (On-Chain): Users receive verifiable, blockchain-backed certificates upon course completion to showcase skills digitally.
+✨ Live site: https://craftlearn.vercel.app/
 
-Hands-on Learning Tracks: Specialized courses focusing on practical artisan skills (e.g., baking, weaving) and digital business development.
+---
 
-Web3 Made Simple: Beginner-friendly curriculum covering Web3 basics, ensuring effortless adoption by non-technical users.
+## Status
+- Current Status: In Development — actively building core Web3 integration
 
-Earn as You Learn Model: Integrating mechanisms to help artisans monetize their skills and participation.
+---
 
-🛠️ Technical Stack
-CraftLearn is built as a modern, high-performance, and decentralized application (dApp).
+## Core Features & Value
 
-Frontend/Application: Next.js (for performance, routing, and server-side capabilities).
+- **Digital Certification (On‑Chain)**  
+  Verifiable, blockchain‑backed certificates issued on course completion so learners can showcase skills and credentials anywhere.
 
-Smart Contracts: Solidity (for managing course completion, certification, and on-chain identity).
+- **Hands‑on Learning Tracks**  
+  Practical, focused tracks (example: baking, weaving, digital branding) that combine craft techniques with business and digital tooling.
 
-Styling: [Add your CSS framework here, e.g., Tailwind CSS or Styled Components].
+- **Web3 Made Simple**  
+  Beginner‑friendly Web3 curriculum and UX patterns so non‑technical artisans can onboard and benefit from decentralized identity and certificates.
 
-State Management: [Add your state management tool, e.g., Zustand or Redux].
+- **Earn‑as‑You‑Learn Model**  
+  Built‑in mechanisms to help learners monetize skills and participation (marketplace, community gigs, tokenized incentives).
+
+---
+
+## Tech Stack
+
+CraftLearn is built as a modern, high‑performance dApp:
+
+- **Frontend / Application:** Next.js (performance, routing, SSR/SSG)
+- **Smart Contracts:** Solidity (certification, course completion, on‑chain identity)
+- **Styling:** (e.g., Tailwind CSS or Styled Components — add your preference)
+- **State Management:** (e.g., Zustand or Redux — add your preference)
+- **Hosting / Deployment:** Vercel (example)
+
+---
+
+## How It Works — The Artisan Journey
+
+1. **Web3 Basics**  
+   Complete a short, mandatory crash course on Web3 fundamentals and earn an initial Web3 certificate.
+
+2. **Pick a Craft**  
+   Choose a learning track (Artisan Skills, Digital Branding, Web3 Finance) and progress at your own pace with practical lessons and projects.
+
+3. **Certify & Earn**  
+   After course completion, receive a blockchain‑verified certificate and unlock community, marketplace, and earning opportunities tied to your verified skills.
 
 ➡️ How It Works (The Artisan Journey)
 Web3 Basics: Complete a mandatory, short crash course to earn an initial Web3 certificate.
