@@ -1,13 +1,13 @@
 # CraftLearn — Learn a Craft On‑Chain
 
-CraftLearn empowers artisans around the world by combining practical, hands‑on learning with accessible Web3 integration. Learn a craft, earn verifiable digital credentials, and unlock new income streams — because Web3 is for artisans, too.
+CraftLearn empowers artisans around the world by combining practical, hands‑on learning with accessible Web3 integration. Learn a craft, earn verifiable digital credentials, and unlock new income streams . because Web3 is for artisans, too.
 
 ✨ Live site: https://craftlearn.vercel.app/
 
 ---
 
 ## Status
-- Current Status: In Development — actively building core Web3 integration
+- Current Status: In Development ,actively building core Web3 integration
 
 ---
 
@@ -33,9 +33,9 @@ CraftLearn is built as a modern, high‑performance dApp:
 
 - **Frontend / Application:** Next.js (performance, routing, SSR/SSG)
 - **Smart Contracts:** Solidity (certification, course completion, on‑chain identity)
-- **Styling:** (e.g., Tailwind CSS or Styled Components — add your preference)
-- **State Management:** (e.g., Zustand or Redux — add your preference)
-- **Hosting / Deployment:** Vercel (example)
+- **Styling:**  Tailwind CSS or
+- **State Management:** ( Zustand )
+- **Hosting / Deployment:** Vercel 
 
 ---
 
